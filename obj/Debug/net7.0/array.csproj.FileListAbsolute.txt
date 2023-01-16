@@ -1,0 +1,15 @@
+/Users/samil/Projects/array/array/bin/Debug/net7.0/array
+/Users/samil/Projects/array/array/bin/Debug/net7.0/array.deps.json
+/Users/samil/Projects/array/array/bin/Debug/net7.0/array.runtimeconfig.json
+/Users/samil/Projects/array/array/bin/Debug/net7.0/array.dll
+/Users/samil/Projects/array/array/bin/Debug/net7.0/array.pdb
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.csproj.AssemblyReference.cache
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.dll
+/Users/samil/Projects/array/array/obj/Debug/net7.0/refint/array.dll
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.pdb
+/Users/samil/Projects/array/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/Users/samil/Projects/array/array/obj/Debug/net7.0/ref/array.dll
